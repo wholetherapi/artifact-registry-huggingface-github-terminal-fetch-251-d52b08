@@ -1,0 +1,51 @@
+CORTEX COMMUNITY LICENSE
+Version 1.2, effective 2025-03-01
+
+This Cortex Community License (the "License") governs the use of the Cortex
+model and its accompanying files (the "Model") distributed by Cortex Labs
+("Licensor"). By using the Model you agree to the terms of this License.
+
+1. GRANT OF RIGHTS
+   Subject to the terms of this License, the Licensor grants you a
+   non-exclusive, worldwide, royalty-free license to use, reproduce, distribute,
+   publish, and create derivative works of the Model, and to use the Model to
+   generate Output.
+
+2. OUTPUTS
+   The Licensor claims no rights in the Output You generate using the Model.
+   You are solely responsible for the Output and for any use of the Output,
+   including compliance with any third-party rights and licenses that may apply
+   to training data, prompts or other inputs.
+
+3. DATA AND TRAINING MATERIALS
+   This License grants no rights in, and does not apply to, any data, datasets,
+   texts, code or other training materials used to train, fine-tune, or
+   otherwise develop the Model. All such materials remain governed exclusively
+   by their own separate terms, and you must obtain any necessary rights to
+   such materials from their respective licensors.
+
+4. COMMERCIAL USE
+   Commercial use of the Model and of the Output is permitted provided that
+   this License is not violated.
+
+5. ATTRIBUTION
+   When you distribute the Model or a derivative work of the Model, you must
+   retain this License and give appropriate credit to Cortex Labs.
+
+6. RESTRICTIONS
+   You may not use the Model to knowingly violate applicable law, to infringe
+   third-party rights, or to misrepresent the origin of the Model.
+
+7. DISCLAIMER OF WARRANTY
+   THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. THE LICENSOR DOES NOT WARRANT THAT THE MODEL OR ITS OUTPUT WILL BE
+   ACCURATE, ERROR-FREE OR FIT FOR ANY PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE MODEL OR ITS OUTPUT.
+
+9. MISCELLANEOUS
+   This License is the entire agreement between you and the Licensor regarding
+   the Model. If any provision is held unenforceable, the remaining provisions
+   remain in full force and effect.

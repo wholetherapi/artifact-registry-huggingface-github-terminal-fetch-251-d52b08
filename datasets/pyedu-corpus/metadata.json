@@ -1,0 +1,16 @@
+{
+  "artifact": "pyedu-corpus",
+  "type": "dataset",
+  "description": "Python education code and explanations collection",
+  "schema": [
+    "text",
+    "topic",
+    "source_repo"
+  ],
+  "tokens": 210000000,
+  "license": "odc-by",
+  "license_name": "Open Data Commons Attribution License 1.0",
+  "derived_artifacts": [
+    "pyedu-instruct-120k"
+  ]
+}

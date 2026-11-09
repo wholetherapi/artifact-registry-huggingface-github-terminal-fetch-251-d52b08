@@ -1,0 +1,14 @@
+{
+  "artifact": "multilingual-pile",
+  "type": "dataset",
+  "description": "Multilingual natural-language and code pretraining corpus",
+  "schema": [
+    "text",
+    "language",
+    "repo_name"
+  ],
+  "languages": 46,
+  "tokens": 3100000000,
+  "license": "cc-by-sa-4.0",
+  "license_name": "Creative Commons Attribution-ShareAlike 4.0 International"
+}

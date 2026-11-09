@@ -1,0 +1,17 @@
+{
+  "artifact": "pyedu-instruct-120k",
+  "type": "dataset",
+  "description": "Python education instruction-tuning data with synthesized responses",
+  "adopted_from": "pyedu-corpus",
+  "synthesis_model": "cortex-coder-32b-instruct",
+  "schema": [
+    "instruction",
+    "response",
+    "topic",
+    "difficulty"
+  ],
+  "rows": 120000,
+  "license": "pending-review",
+  "license_source": null,
+  "license_justification": null
+}

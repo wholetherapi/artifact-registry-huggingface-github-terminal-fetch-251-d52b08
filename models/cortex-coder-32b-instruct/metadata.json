@@ -1,0 +1,10 @@
+{
+  "artifact": "cortex-coder-32b-instruct",
+  "type": "model",
+  "description": "Code-specialized instruction-following language model",
+  "parameters": "32B",
+  "architecture": "decoder-only transformer",
+  "license": "cortex-community-license-1.2",
+  "license_name": "Cortex Community License v1.2",
+  "license_file": "LICENSE-MODEL"
+}
