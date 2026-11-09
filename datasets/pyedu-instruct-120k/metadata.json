@@ -11,7 +11,7 @@
     "difficulty"
   ],
   "rows": 120000,
-  "license": "pending-review",
-  "license_source": null,
-  "license_justification": null
+  "license": "odc-by",
+  "license_source": "pyedu-corpus",
+  "license_justification": "The upstream collection pyedu-corpus declares odc-by; the generator's Cortex Community License claims no rights in the Output and does not apply to training data, so it does not govern this dataset."
 }
